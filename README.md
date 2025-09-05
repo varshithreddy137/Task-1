@@ -2,6 +2,9 @@
 
 ### I recently completed the MATLAB Onramp course and learned a lot of basics that helped me solve the three given questions for this task. This was a good start, and I’m excited to keep learning more!
 
+<img width="1500" height="1055" alt="image" src="https://github.com/user-attachments/assets/4cb055bf-856f-4117-be21-b834b8c2fe2f" />
+
+
 ## Question 1
 ### The first question was about initializing an array with random numbers and then modifying it based on certain conditions.
 
