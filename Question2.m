@@ -1,4 +1,4 @@
-x=randi([1,100],10,10);
+x=randi(100,10,10);
 disp("Matrix with random integers between 1 and 100:");
 disp(x);
 
@@ -21,4 +21,5 @@ for i=1:10
         end 
     end   
 end 
+
 hold off
